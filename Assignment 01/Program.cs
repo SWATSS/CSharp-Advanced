@@ -57,9 +57,6 @@ namespace Assignment_01
             if (isParsed) Console.WriteLine($"{Color} is a Primary Color");
             else Console.WriteLine($"{colorName} is Not a Primary Color");
             #endregion
-
-
-
         }
     }
 }
